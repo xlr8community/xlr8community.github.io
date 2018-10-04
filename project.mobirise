@@ -24,8 +24,8 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 57,
-    "versionPublish": "4.8.3",
+    "uniqCompNum": 63,
+    "versionPublish": "4.5.4",
     "screenshot": "screenshot.png",
     "siteFonts": []
   },
@@ -504,6 +504,40 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/abstract-wallpaper-simple-three-colour-lines-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "FAQs",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"assets/files/FAQs.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">READ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1l"
+        },
+        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -559,7 +593,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "ARTICLES LANDING PAGE",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -877,7 +911,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "VIKASARTICLE1",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1067,7 +1101,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "PREETAMARTICLE1",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1243,7 +1277,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "ADARSHARTICLE1",
-        "order": 1
+        "order": 2
       },
       "components": [
         {

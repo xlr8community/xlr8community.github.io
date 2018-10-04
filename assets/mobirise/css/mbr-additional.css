@@ -507,6 +507,10 @@ h6,
 #msg-box1-c H3 {
   color: #efefef;
 }
+#msg-box8-1l .mbr-section-title,
+#msg-box8-1l p {
+  color: #fff;
+}
 #menu-f .hide-buttons .nav-btn {
   display: none !important;
 }
