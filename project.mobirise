@@ -42,14 +42,14 @@
       "components": [
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
+            "showTitle": false,
+            "showText": false,
             "showButtons": true,
             "showArrow": true,
-            "contentAlign": "center",
+            "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/69365834-spotlight-wallpapers-2-1800x1264.png",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/xlr-1920x1080.jpg",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
@@ -61,10 +61,10 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.2"
           },
-          "title": "INTRODUCING<br><br>",
-          "text": "<span style=\"font-style: normal;\"><b>XLR-8</b></span>",
+          "title": "AAAAAAAAINTRODIUCING<br><br>",
+          "text": "",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"index.html#slider-7\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "_tags": [
             "Theme"
@@ -74,7 +74,7 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "24px",
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             ".mbr-section-lead": {
               "font-size": "84px",
@@ -216,7 +216,7 @@
             }
           },
           "title": "What is it?",
-          "text": "An out-of-the world rapid prototyping board to help you accelerate the process of arriving at an MVP. Focus on building your stuff leave the redundant parts to XLR-8!&nbsp;",
+          "text": "An out-of-the world rapid prototyping board to help you accelerate the process of arriving at an MVP. Focus on building your stuff leave the redundant parts to Accexlron!&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/xlr8_datasheet.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "_tags": [
             "Theme"
@@ -251,7 +251,7 @@
                 "title": "ZERO WIRES<br>INFINITE POSSIBLITIES...",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "With XLR-8 your ideas can turn to realities and of course&nbsp;<br>at a much faster pace.",
+                "text": "With Accexlron your ideas can turn to realities and of course&nbsp;<br>at a much faster pace.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#features3-b\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://tweaklabs.github.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY NOW</a>"
               },
               {
@@ -265,7 +265,7 @@
                 "title": "A BOT?",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Put together a bluetooth controlled robot in less<br>than 2 hours with our XLR-8 dev kit.",
+                "text": "Put together a bluetooth controlled robot in less<br>than 2 hours with our Accexlron dev kit.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -293,7 +293,7 @@
                 "title": "A ROCKET LAUNCHER?",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "You heard it right.<br>A rocket launcher using XLR-8!",
+                "text": "You heard it right.<br>A rocket launcher using Accexlron!",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
